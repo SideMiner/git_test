@@ -1,0 +1,17 @@
+[33mcommit 157878c95b3bf16f36b9fc9181045efb791fb70d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: SideMiner <122021120+SideMiner@users.noreply.github.com>
+Date:   Thu Jan 19 09:25:23 2023 +1100
+
+    Edit README.md Edit and change name of Hello_world.txt
+
+[33mcommit 183be27ee9b8867f019f3bee96ad4a2a3e10ba2c[m
+Author: SideMiner <122021120+SideMiner@users.noreply.github.com>
+Date:   Thu Jan 19 09:10:31 2023 +1100
+
+    Add hello_world.txt
+
+[33mcommit 281d0847fbb8341814652a0dd6959de2162b0f44[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SideMiner <122021120+SideMiner@users.noreply.github.com>
+Date:   Fri Jan 13 17:11:34 2023 +1100
+
+    Initial commit
